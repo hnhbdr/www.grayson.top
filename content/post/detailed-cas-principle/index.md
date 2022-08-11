@@ -1,14 +1,13 @@
 ---
 title: detailed-cas-principle
 date: 2022-08-11T07:29:38.229Z
-summary: >-
-  The full name of CAS is Compare and Swap, which means compare and
-
+summary: The full name of CAS is Compare and Swap, which means compare and
   exchange. It is a lock-free atomic algorithm as well as an optimistic
-
-  mechanism. CAS is mapped to the operating system as a CPU atomic instruction. The implementation method is based on the assembly instructions of the hardware platform. In Intel's CPU, the `cmpxchg` instruction is used, which
-
-  means that CAS is implemented by hardware, thereby improving efficiency at the hardware level.
+  mechanism. CAS is mapped to the operating system as a CPU atomic instruction.
+  The implementation method is based on the assembly instructions of the
+  hardware platform. In Intel's CPU, the `cmpxchg` instruction is used, which
+  means that CAS is implemented by hardware, thereby improving efficiency at the
+  hardware level.
 draft: false
 featured: false
 authors:
