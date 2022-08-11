@@ -2,13 +2,13 @@
 title: algorithm-principle-abount-b-tree-b-tree-index
 subtitle: ""
 date: 2022-08-11T07:26:47.697Z
-summary: Commonly used data structures such as binary search tree (Binary
-  Search   Tree, BST) each node can only hold one data, resulting in a high tree
-  height,   the data of logically adjacent nodes may be far away, if in memory
-  This is not   a big problem for data manipulation in the middle, but because
-  the speed of   reading and writing to the disk is much slower than that of the
-  memory, the   unit of reading and writing to the disk each time is much larger
-  than the   smallest unit of reading and writing the memory.
+summary: Commonly used data structures such as binary search tree (Binary Search
+  Tree, BST) each node can only hold one data, resulting in a high tree height,
+  the data of logically adjacent nodes may be far away, if in memory This is not
+  a big problem for data manipulation in the middle, but because the speed of
+  reading and writing to the disk is much slower than that of the memory, the
+  unit of reading and writing to the disk each time is much larger than the
+  smallest unit of reading and writing the memory.
 draft: false
 featured: false
 authors:
