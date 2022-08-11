@@ -11,10 +11,8 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
     - name: Other
-      tag: Demo
+      tag: OTHER
 design:
   columns: "2"
   view: 2
