@@ -1,41 +1,74 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: example
+url_pdf: ""
+summary: The author started preparing for the internship in March this year.
+  During the preparation process, I learned a lot from the open source
+  community. For example, I learned about the blogs of many big guys
+  ([Halfrost's Field | Frost Land](https://halfrost.com) ), built its own
+  knowledge base ([Grayson's Notebook](https://notebook.grayson.top)).
+  Therefore, I want to precipitate this knowledge and give back to the
+  community. On the one hand, I can not only deepen my understanding of this
+  knowledge, on the other hand, I can also communicate and learn with other
+  friends and make progress together.
+authors:
+  - admin
+url_video: ""
+date: 2022-08-11T07:43:52.239Z
+categories:
+  - GITHUB
+external_link: ""
+url_slides: ""
+title: computer-cookbook-school-recruitment
+tags:
+  - OTHER
+links: []
+image:
+  caption: ""
+  focal_point: Smart
+  filename: featured.png
+url_code: ""
 ---
+!\[](https://books.grayson.top/school-recruitment/assets/images/book-cover.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+## Why write this open source book
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+The author started preparing for the internship in March this year. During the preparation process, I learned a lot from the open source community. For example, I learned about the blogs of many big guys ([Halfrost's Field | Frost Land](https://halfrost.com) ), built its own knowledge base ([Grayson's Notebook](https://notebook.grayson.top)). Therefore, I want to precipitate this knowledge and give back to the community. On the one hand, I can not only deepen my understanding of this knowledge, on the other hand, I can also communicate and learn with other friends and make progress together.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+## What is Cookbook
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+"A literal translation is a cookbook, a book that teaches you a variety of recipes and food. Students who often read [O'Reilly](https://www.oreilly.com/products/books-videos.html) technical books will know this term Very familiar. Generally hands-on, practical books will have this name."-From [LeetCode Cookbook](https://books.halfrost.com/leetcode).
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+## About the cover of the book
+
+The English implication at the top of the cover is "God rewards hard work, accumulates and develops." "[Most people overestimate what they can do in a day, but underestimate what they can do in a year](https://github.com/wolverinn/Waking-Up)". Only by keeping our feet on the ground and accumulating can we calmly deal with opportunities when opportunities come.
+
+The animal on the cover picture is a lizard walking "cautiously" on a tree, while hooking the branches behind with its tail, grabbing the branches in front with its limbs and probing its head and moving forward, only "step by step", do it well. Everything we do now can move forward more calmly.
+
+The implied meaning of the cover title is "The Road to Computer School Recruitment", which means that this book is mainly suitable for students who participate in the back-end development-related positions of the intern school recruitment.
+
+The color of the cover theme is green, which is the color of success. I hope this book can give you a helping hand and success.
+
+## Thanks
+
+Most of the content of this book comes from blogs and open source communities, and is organized according to the author's understanding. Here, the main sources are listed to express my gratitude to the author:
+
+\-The inspiration and layout of this book comes from [LeetCode Cookbook](https://books.halfrost.com/leetcode), the electronic version is based on \[Book](https:/ of [Hugo](https://gohugo.io) /themes.gohugo.io/themes/hugo-book) theme, the cover image is generated using [O RLY Cover Generator](https://dev.to/rly).
+-The questions in the algorithm part are mainly derived from [LeetCode China](https://leetcode-cn.com), the priority of the question is mainly based on [CodeTop Enterprise Question Bank](https://codetop.cc), and the solution part is derived from [ LeetCode China](https://leetcode-cn.com), [📖labuladong's algorithm cheat sheet](https://labuladong.gitbook.io/algo).
+-Computer basics and the content in the database are mainly derived from [Waking-Up](https://github.com/wolverinn/Waking-Up), \[[Interview Questions] Summary of Technical Interview Questions 🔥](https://imageslr. com/2020/07/08/tech-interview.html), comprehensive questions are mainly derived from [Overseas Rabbit | 海外兔](https://osjobs.net)
+-Others include [Meituan Technical Team](https://tech.meituan.com), [Blog Park](https://www.cnblogs.com), \[Nuggets](https://juejin. cn), [InfoQ](https://www.infoq.cn), [WeChat Official Account](https://weixin.sogou.com), etc.
+
+## Target audience
+
+Undergraduates and graduate students who are ready to participate in computer back-end development related internships or school recruitment.
+
+## Instructions for use
+
+\-There is a search bar in the upper left corner of this e-book, which can quickly help you find the chapter and title number you want to read.
+-Every page of this e-book is connected to Gitalk, and there is a comment box at the bottom of each page to comment. If it is not displayed, please check your own network.
+-This e-book is suitable for students who want to have an in-depth understanding of the knowledge points, and then summarize and summarize according to their own understanding to deal with the interview. It is not suitable for students who want to go to the interview directly by memorizing, because [The interviewer is very I like to continuously and in-depth questioning on a question, it is easy to screen out the candidates who have a taste of nothing](https://imageslr.com/2021/autumn-recruit.html). [We should have a solid grasp of every knowledge point, instead of covering more interview questions as the goal. Focus on quality and not weight, depth but not breadth, and gradually build a personal knowledge system](https://imageslr.com/2021/autumn-recruit.html).
+
+## Interaction and errata
+
+\-If there is something missing from the article in the book, or if you have a better answer or question, please click the edit button at the bottom of the page to comment and interact, or through [i@grayson.top](mailto:i@grayson.top) Get in touch with the author, thank you for your support and help.
+
+##### This work uses [Knowledge Attribution-Non-Commercial Use-No Deduction (BY-NC-ND) 4.0 International License Agreement](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-Hans) For permission.
