@@ -1,8 +1,7 @@
 ---
 title: detailed-mysql-index-principle
 date: 2022-08-11T07:32:19.731Z
-summary: |-
-  An index is a data structure that stores and sorts the values of one or
+summary: An index is a data structure that stores and sorts the values of one or
   more columns in a database table. It speeds up the search by reducing the
   number of records that need to be queried in a table. If there is no index,
   the database will have to perform Full table scan. The index is equivalent to
