@@ -18,6 +18,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/graysonwp
+  - display:
+      header: false
+    link: https://twitter.com/GraysonWP1996
+    icon_pack: fab
+    icon: twitter
   - icon: unsplash
     icon_pack: fab
     link: https://unsplash.com/@graysonwp
