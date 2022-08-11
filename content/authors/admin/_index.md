@@ -13,7 +13,7 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: book
-    icon_pack: fab
+    icon_pack: fas
     link: https://notebook.grayson.top
   - icon: github
     icon_pack: fas
