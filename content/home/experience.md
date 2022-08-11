@@ -6,7 +6,7 @@ experience:
   - title: Junior Back End Engineer Intern
     company: Didi
     company_url: http://didiglobal.com
-    company_logo: "didi"
+    company_logo: ""
     location: Beijing, China
     date_start: 2021-10-08
     date_end: 2022-04-11
