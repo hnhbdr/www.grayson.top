@@ -11,6 +11,10 @@ summary: |-
   speed.
 draft: false
 featured: false
+tags:
+  - MYSQL，INDEX
+categories:
+  - MYSQL
 image:
   filename: featured.png
   focal_point: Smart
