@@ -1,12 +1,13 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Peng Wei
+role: Junior Back End Engineer
+avatar_filename: avatar.jpeg
+bio: Although the road is far away, the line will come soon. God rewards
+  hard   work, accumulates wealth.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Back-End Development
+  - Distributed System
+  - Big Data
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,9 +39,8 @@ email: i@grayson.top
 superuser: true
 highlight_name: true
 ---
+Peng Wei is a professional developer who focuses on Back-End Development now. He likes to accumulate knowledge and writes his personal thoughts on programming and tech in his personal [blog](https://notebook.grayson.top) beacuse he thinks *Although the road is far away, the line will come soon. God rewards hard work, accumulates wealth.*  He enjoys deep thinking and likes to find out the true theory of every single knowledge. He loves algorithms and advanced mathematics, wining medals in Computer Design Competition and ICM.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Peng Wei also is a photographer and loves to record every single beauty of life with camera, which has received nearly 10, 000 downloads and more than 380, 000 views with 24 photos on [Unsplash](https://unsplash.com/@graysonwp). He is always willing to try new things, and keeping to learn from them.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Now, he is a M.Eng student of Software Engineering in Behang University.
