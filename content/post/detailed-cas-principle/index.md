@@ -10,7 +10,7 @@ summary: >-
 
   means that CAS is implemented by hardware, thereby improving efficiency at the hardware level.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.png
   focal_point: Smart
