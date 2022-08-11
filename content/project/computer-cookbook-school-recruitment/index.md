@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: ""
 url_pdf: ""
 summary: The author started preparing for the internship in March this year.
   During the preparation process, I learned a lot from the open source
@@ -28,7 +28,7 @@ image:
   filename: featured.png
 url_code: ""
 ---
-!\[](https://books.grayson.top/school-recruitment/assets/images/book-cover.png)
+![](https://books.grayson.top/school-recruitment/assets/images/book-cover.png)
 
 ## Why write this open source book
 
@@ -71,4 +71,4 @@ Undergraduates and graduate students who are ready to participate in computer ba
 
 \-If there is something missing from the article in the book, or if you have a better answer or question, please click the edit button at the bottom of the page to comment and interact, or through [i@grayson.top](mailto:i@grayson.top) Get in touch with the author, thank you for your support and help.
 
-##### This work uses [Knowledge Attribution-Non-Commercial Use-No Deduction (BY-NC-ND) 4.0 International License Agreement](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-Hans) For permission.
+This work uses [Knowledge Attribution-Non-Commercial Use-No Deduction (BY-NC-ND) 4.0 International License Agreement](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-Hans) For permission.
