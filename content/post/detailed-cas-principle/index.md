@@ -1,5 +1,5 @@
 ---
-title: detailed-cas-principle
+title: Detailed CAS Principle
 date: 2022-08-11T07:29:38.229Z
 summary: The full name of CAS is Compare and Swap, which means compare and
   exchange. It is a lock-free atomic algorithm as well as an optimistic
