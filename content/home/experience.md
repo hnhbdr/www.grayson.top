@@ -6,13 +6,12 @@ experience:
   - title: Junior Back End Engineer Intern
     company: Didi
     company_url: http://didiglobal.com
-    company_logo: ""
-    location: Beijing
+    company_logo: "didi"
+    location: Beijing, China
     date_start: 2021-10-08
     date_end: 2022-04-11
     description: >-
       ![](https://notebook.grayson.top/media/202204/2022-04-13_1546480.1872999721663492.png)
-
 
       * Participate in the service transformation of test account for DIDIFARM. It is mainly responsible for the two modules of account life cycle control and account attribute or feature constructor. After the service transformation of test account is completed, 69 cities, 91 models, 148 account types, and one -click application for cumulative 645 accounts are provided; The time modification and characteristics of characteristics have been reduced from the original at least 1 day to the current maximum 1 minute.
 
