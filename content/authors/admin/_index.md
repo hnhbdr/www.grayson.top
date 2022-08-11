@@ -16,13 +16,13 @@ social:
     icon_pack: fas
     link: https://notebook.grayson.top
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: https://github.com/graysonwp
   - icon: unsplash
     icon_pack: fab
     link: https://unsplash.com/@graysonwp
   - icon: book-open
-    icon_pack: fab
+    icon_pack: fas
     link: https://books.grayson.top
 organizations:
   - name: Beihang University
