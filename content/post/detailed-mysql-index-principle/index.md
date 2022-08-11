@@ -1,5 +1,5 @@
 ---
-title: detailed-mysql-index-principle
+title: Detailed CAS Principle
 date: 2022-08-11T07:32:19.731Z
 summary: An index is a data structure that stores and sorts the values of one or
   more columns in a database table. It speeds up the search by reducing the
