@@ -11,6 +11,8 @@ summary: |-
   speed.
 draft: false
 featured: false
+authors:
+  - admin
 tags:
   - MYSQL，INDEX
 categories:
