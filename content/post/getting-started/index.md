@@ -1,5 +1,5 @@
 ---
-title: algorithm-principle-abount-b-tree-b-tree-index
+title: Detailed B-tree and B+tree Index Algorithm Principle
 subtitle: ""
 date: 2022-08-11T07:26:47.697Z
 summary: Commonly used data structures such as binary search tree (Binary Search
