@@ -4,7 +4,7 @@ publication_types:
   - "5"
 authors:
   - admin
-doi: https://github.com/graysonwp/ComputerCookbook-SchoolRecruitment
+doi: ""
 publication: https://books.grayson.top/school-recruitment
 abstract: The author started preparing for the internship in March this year.
   During the preparation process, I learned a lot from the open source
@@ -26,7 +26,7 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2022-08-11T09:52:47.536Z
+date: 2022-08-11T10:07:59.184Z
 ---
 ![](featured.png)
 
