@@ -20,6 +20,6 @@ content:
   offset: 0
   order: desc
 design:
-  view: compact
-  columns: "2"
+  view: showcase
+  columns: "5"
 ---
