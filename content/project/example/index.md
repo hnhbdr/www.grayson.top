@@ -18,7 +18,7 @@ categories:
   - GITHUB
 external_link: ""
 url_slides: ""
-title: computer-cookbook-school-recruitment
+title: COMPUTER COOKBOOK - SCHOOL RECRUITMENT
 tags:
   - OTHER
 links: []
