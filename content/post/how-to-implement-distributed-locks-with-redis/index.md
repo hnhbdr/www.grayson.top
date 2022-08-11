@@ -1,5 +1,5 @@
 ---
-title: how-to-implement-distributed-locks-with-redis
+title: How to implement Distributed Locks with Redis
 date: 2022-08-11T07:36:08.760Z
 summary: For single-process concurrency scenarios, you can use the locks
   provided by the programming language and corresponding class libraries, such
