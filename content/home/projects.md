@@ -15,6 +15,6 @@ content:
       tag: OTHER
 design:
   columns: "2"
-  view: 2
+  view: 3
   flip_alt_rows: false
 ---
