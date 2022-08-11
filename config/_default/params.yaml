@@ -18,11 +18,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Although the road is far away, the line will come soon. God rewards hard work, accumulates wealth.'
+    twitter: 'GraysonWP1996'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
+    google_analytics: 'G-Z9457XHKQF'
+    baidu_tongji: '15d2951fa652eebf232c009727cee5d5'
   verification:
     google: ''
     baidu: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Peng Wei'
     license:
       enable: true
       allow_derivatives: false
