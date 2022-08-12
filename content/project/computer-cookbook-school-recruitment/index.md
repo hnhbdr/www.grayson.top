@@ -24,7 +24,7 @@ links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: https://books.grayson.top/school-recruitment/img/book-cover.png
+  filename: school-recruitment2.png
 url_code: ""
 ---
 ## Why write this open source book
