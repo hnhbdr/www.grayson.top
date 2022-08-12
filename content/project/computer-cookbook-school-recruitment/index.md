@@ -1,15 +1,14 @@
 ---
 slides: ""
 url_pdf: ""
-summary: The author started preparing for the internship in March this year.
-  During the preparation process, I learned a lot from the open source
-  community. For example, I learned about the blogs of many big guys
-  ([Halfrost's Field | Frost Land](https://halfrost.com) ), built its own
-  knowledge base ([Grayson's Notebook](https://notebook.grayson.top)).
-  Therefore, I want to precipitate this knowledge and give back to the
-  community. On the one hand, I can not only deepen my understanding of this
-  knowledge, on the other hand, I can also communicate and learn with other
-  friends and make progress together.
+summary: In the process of preparing for internship, I learned a lot of things
+  from the open source community. For example, I knew the blogs of many big
+  brothers ([Halfrost's Field | Falling Land](https://halfrost.com)), and built
+  his own knowledge base ([Grayson's Notebook](https://notebook.grayson.top)).
+  Therefore, I want to precipitate these knowledge and give back to the
+  community. On the one hand, it can not only deepen their understanding of
+  these knowledge, but also to communicate and learn with other friends on the
+  other hand.
 authors:
   - admin
 url_video: ""
