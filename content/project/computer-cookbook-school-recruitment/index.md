@@ -24,7 +24,7 @@ links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: school-recruitment2.png
+  filename: featured.jpeg
 url_code: ""
 ---
 ## Why write this open source book
