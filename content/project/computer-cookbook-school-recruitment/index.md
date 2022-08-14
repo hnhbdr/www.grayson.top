@@ -27,25 +27,6 @@ image:
   filename: featured.jpeg
 url_code: ""
 ---
-<p align='center'>
-<a href="https://github.com/graysonwp/school-recruitment/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/graysonwp/school-recruitment?label=License"/></a>
-<img src="https://img.shields.io/badge/build-passing-brightgreen.svg"/>
-<img src="https://img.shields.io/badge/platform-%20iOS | Android | Mac | Web%20-ff69b4.svg"/>
-<img src="https://img.shields.io/badge/language-Java-orange.svg"/>
-<img src="https://img.shields.io/badge/made%20with-=1-blue.svg"/>
-<a href="https://github.com/graysonwp/school-recruitment/pulls"><img src="https://img.shields.io/badge/PR-Welcome-brightgreen.svg"/></a>
-<img src="https://img.shields.io/github/stars/graysonwp/school-recruitment?style=social"/>
-<img src="https://img.shields.io/github/forks/graysonwp/school-recruitment?style=social"/>
-<a href="https://github.com/graysonwp/school-recruitment"><img src="https://visitor-badge.laobi.icu/badge?page_id=graysonwp.school-recruitment"/></a>
-<a href="https://github.com/graysonwp/school-recruitment/releases"><img src="https://img.shields.io/github/v/release/graysonwp/school-recruitment"/></a>
-<a href="https://github.com/graysonwp/school-recruitment"><img src="https://img.shields.io/github/repo-size/graysonwp/school-recruitment"/></a>
-</p>
-<p align='center'>
-<a href="https://www.grayson.top"><img src="https://img.shields.io/badge/Blog-Grayson-80d4f9.svg?style=flat"/></a>
-<a href="https://unsplash.com/@graysonwp"><img src="https://img.shields.io/badge/Unsplash-Grayson-success.svg"/></a>
- <a href="https://twitter.com/GraysonWP1996"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FGraysonWP1996"/></a>
-</p>
-
 ## Why write this open source book
 
 In the process of preparing for the internship, the author learned a lot from the open source community, such as knowing the blogs of many bigwigs ( [Halfrost's Field | Frostland](https://halfrost.com/) ), and building my own knowledge base ( [Grayson's Notebook](https://notebook.grayson.top/) ). Therefore, I want to deposit this knowledge and give back to the community. On the one hand, you can not only deepen your understanding of these knowledge, but on the other hand, you can also communicate with other small partners to learn and make progress together.
