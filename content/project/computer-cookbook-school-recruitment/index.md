@@ -24,7 +24,7 @@ links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: school-recruitment2.png
+  filename: school-recruitment2.jpg
 url_code: ""
 ---
 ## Why write this open source book
@@ -47,14 +47,14 @@ Most of the content of this book comes from blogs, open source communities and b
 
 * The inspiration and layout of this book comes from the [LeetCode Cookbook](https://books.halfrost.com/leetcode) , the digital version is based on [Docusaurus](https://books.grayson.top/school-recruitment/docusaurus.io) , and the cover image is from [Karsten Winegeart](https://unsplash.com/@karsten116?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) .
 * The questions in the algorithm part are mainly from [LeetCode China](https://leetcode-cn.com/) , the priority of the questions is mainly based on the [CodeTop enterprise question bank](https://codetop.cc/) , and the problem solving part comes from the algorithm cheat sheets of [LeetCode China](https://leetcode-cn.com/) and [📖labuladong](https://labuladong.gitbook.io/algo) .
-* The computer foundation and the content in the database are mainly from [Waking-Up](https://github.com/wolverinn/Waking-Up) , [[Interview Questions] Summary of Technical Interview Questions🔥](https://imageslr.com/2020/07/08/tech-interview.html) , and the comprehensive questions are mainly from [Overseas Rabbit | Overseas Rabbit](https://osjobs.net/) .
+* The computer foundation and the content in the database are mainly from [Waking-Up](https://github.com/wolverinn/Waking-Up) , [\[Interview Questions] Summary of Technical Interview Questions🔥](https://imageslr.com/2020/07/08/tech-interview.html) , and the comprehensive questions are mainly from [Overseas Rabbit | Overseas Rabbit](https://osjobs.net/) .
 * Others include [the Meituan technical team](https://tech.meituan.com/) , [Blog Park](https://www.cnblogs.com/) , [Nuggets](https://juejin.cn/) , [InfoQ](https://www.infoq.cn/) , [WeChat](https://weixin.sogou.com/) official account, etc.
 
 ## Target audience
 
 Undergraduate and graduate students who are ready to participate in internships or school recruitment related to computer back-end development.
 
-## [Instructions](https://books.grayson.top/school-recruitment/#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E) for use
+## Instructions for use
 
 * There is a search bar in the upper left corner of this e-book, which can quickly help you find the chapter and title number you want to read.
 * This e-book is suitable for students who want to have an in-depth understanding of the knowledge points, and then summarize and summarize according to their own understanding to deal with the interview. It is not suitable for students who want to go to the interview directly by memorizing, because the [interviewer likes to Continuous and in-depth questioning on a question makes it easy to screen out candidates who have just tried it](https://imageslr.com/2021/autumn-recruit.html) . [We should have a solid grasp of each knowledge point, rather than aiming to cover more interview questions. Focus on quality rather than weight, focus on depth rather than breadth, and gradually build a personal knowledge system](https://imageslr.com/2021/autumn-recruit.html) .
