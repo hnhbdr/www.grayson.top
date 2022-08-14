@@ -34,7 +34,7 @@ experience:
     date_start: 2020-12-20
     date_end: 2021-06-24
     description: >-
-      ![](https://notebook.grayson.top/media/202204/2022-04-13_1546480.1872999721663492.png)
+      ![](https://notebook.grayson.top/media/202107/2021-07-24_102733.png)
 
       * Participated in the development of the same-city backup system of China Securities Testing. The project is mainly to migrate the data of China Securities Testing from Teradata to the TDH platform, and completed the development of the scheduling system including daily polling, task scheduling, program release and task operation modules. Using SpringBoot as the main framework, Druid as the database connection pool, Spring Data JPA as the underlying interaction framework of the database, Nginx+Keepalived to achieve high-availability clusters, and multi-threading as the core of the scheduling system, after the project goes online, 280 daily tasks are completed every day. Running, the migration of 300G data has successfully completed the smooth migration of Teradata to TDH.
         
