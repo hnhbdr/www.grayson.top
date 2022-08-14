@@ -15,20 +15,20 @@ social:
   - icon: book
     icon_pack: fas
     link: https://notebook.grayson.top
+  - icon: book-open
+    icon_pack: fas
+    link: https://books.grayson.top
   - icon: github
     icon_pack: fab
     link: https://github.com/graysonwp
+  - icon: unsplash
+    icon_pack: fab
+    link: https://unsplash.com/@graysonwp
   - display:
       header: false
     link: https://twitter.com/GraysonWP1996
     icon_pack: fab
     icon: twitter
-  - icon: unsplash
-    icon_pack: fab
-    link: https://unsplash.com/@graysonwp
-  - icon: book-open
-    icon_pack: fas
-    link: https://books.grayson.top
 organizations:
   - name: Beihang University
     url: https://buaa.edu.cn
