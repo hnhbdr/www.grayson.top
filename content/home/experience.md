@@ -14,17 +14,12 @@ experience:
       ![](https://notebook.grayson.top/media/202204/2022-04-13_1546480.1872999721663492.png)
 
       * Participate in the service transformation of DidiFarm test numbers. It is mainly responsible for two modules: account life cycle management and account attribute/feature construction. After the service transformation of the test account is completed, it supports one-click application for 69 cities, 91 models, 148 account types, and a total of 645 accounts; provides 6 categories and 41 categories of account tools; application for a single account , attribute modification, and feature construction time have been reduced from a minimum of 1 day to a maximum of 1 minute now.
-        
-        * There are many types of test numbers, how to organize them efficiently and accurately.
-      
+        - There are many types of test numbers, how to organize them efficiently and accurately.
       * Lead the customized development of DidiFarm menu. Independently complete demand research, program writing, direction sharing, group review, and TC review. The functions are mainly divided into three modules: business line management, tool management, and environmental management. After the menu customization is completed, the time required for adding a single menu is shortened from the original code modification, email approval, CR, and deployment of at least 1 hour to the current 1 minute.
-        
-        * There are many menus and the styles are not uniform. How to be compatible with all menus.
-      
+        - There are many menus and the styles are not uniform. How to be compatible with all menus.
       * Participate in the development of DIY use case management and use case editing modules. Allows users to quickly build specified scene links through templates; realize cross-team collaborative co-construction through collaborative sharing mode. Since its launch one month ago, 1,625 cases have been created and 185,146 cases have been run, covering 211 scenarios and involving 441 users in 18 business lines.
-        
-        * How to create custom use cases.
-        * How to achieve collaborative sharing across teams.
+        - How to create custom use cases.
+        - How to achieve collaborative sharing across teams.
 
   - title: Junior Back End Engineer Intern
     company: Transwarp
@@ -36,10 +31,9 @@ experience:
     description: >-
       ![](https://notebook.grayson.top/media/202107/2021-07-24_102733.png)
 
-      * Participated in the development of the same-city backup system of China Securities Testing. The project is mainly to migrate the data of China Securities Testing from Teradata to the TDH platform, and completed the development of the scheduling system including daily polling, task scheduling, program release and task operation modules. Using SpringBoot as the main framework, Druid as the database connection pool, Spring Data JPA as the underlying interaction framework of the database, Nginx+Keepalived to achieve high-availability clusters, and multi-threading as the core of the scheduling system, after the project goes online, 280 daily tasks are completed every day. Running, the migration of 300G data has successfully completed the smooth migration of Teradata to TDH.
-        
-        * How to implement t+1 run.
-        * Data is sometimes delayed, how to ensure orderly migration of data.
+      - Participated in the development of the same-city backup system of China Securities Testing. The project is mainly to migrate the data of China Securities Testing from Teradata to the TDH platform, and completed the development of the scheduling system including daily polling, task scheduling, program release and task operation modules. Using SpringBoot as the main framework, Druid as the database connection pool, Spring Data JPA as the underlying interaction framework of the database, Nginx+Keepalived to achieve high-availability clusters, and multi-threading as the core of the scheduling system, after the project goes online, 280 daily tasks are completed every day. Running, the migration of 300G data has successfully completed the smooth migration of Teradata to TDH.
+      - How to implement t+1 run.
+      - Data is sometimes delayed, how to ensure orderly migration of data.
 widget_id: RECENT-POSTS
 headless: true
 weight: 30
