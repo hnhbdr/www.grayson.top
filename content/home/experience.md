@@ -13,9 +13,7 @@ experience:
     description: >-
       ![](https://notebook.grayson.top/media/202204/2022-04-13_1546480.1872999721663492.png)
 
-      - Participate in the service transformation of DidiFarm test numbers. It is mainly responsible for two modules: account life cycle management and account attribute/feature construction. After the service transformation of the test account is completed, it supports one-click application for 69 cities, 91 models, 148 account types, and a total of 645 accounts; provides 6 categories and 41 categories of account tools; application for a single account , attribute modification, and feature construction time have been reduced from a minimum of 1 day to a maximum of 1 minute now.
-      
-      - Participate in the development of DIY use case management and use case editing modules. Allows users to quickly build specified scene links through templates; realize cross-team collaborative co-construction through collaborative sharing mode. Since its launch one month ago, 1,625 cases have been created and 185,146 cases have been run, covering 211 scenarios and involving 441 users in 18 business lines.
+      - Participate in the development of DIY self-test platform. It mainly solves the problems of stateless management of the execution process of the existing platform and the construction of general link-level scenarios around the order flow. Support users to create customized scenario use cases through visual link assembly; realize collaborative sharing across teams through collaborative sharing mode. Mainly responsible for the development of use case management and use case editing modules. Use Python's Django framework as the core of the project architecture; implement data buffering, interface parameter consumption and session sharing based on Redis. Since its launch one month ago, it has accumulated 1,625 cases, and has run a total of 185,146 cases, covering 211 scenarios and involving 441 users in 18 business lines of the group.
 
   - title: Junior Back End Engineer Intern
     company: Transwarp
@@ -27,7 +25,7 @@ experience:
     description: >-
       ![](https://notebook.grayson.top/media/202107/2021-07-24_102733.png)
 
-      - Participated in the development of the same-city backup system of China Securities Testing. The project is mainly to migrate the data of China Securities Testing from Teradata to the TDH platform, and completed the development of the scheduling system including daily polling, task scheduling, program release and task operation modules. Using SpringBoot as the main framework, Druid as the database connection pool, Spring Data JPA as the underlying interaction framework of the database, Nginx+Keepalived to achieve high-availability clusters, and multi-threading as the core of the scheduling system, after the project goes online, 280 daily tasks are completed every day. Running, the migration of 300G data has successfully completed the smooth migration of Teradata to TDH.
+      - Participated in the development of the CSI monitoring intra-city backup system. The main task is to migrate the data from Teradata to the TDH platform. During the migration process, there are challenges such as large amount of data, parallel increase in storage, and inconsistent data format. Mainly responsible for the development of task scheduling module. Use SpringBoot as the main framework; Druid as the database connection pool; Spring Data JPA as the underlying database interaction framework; Nginx+Keepalived to achieve high availability cluster; multithreading as the core of the scheduling system. After the project was launched, the migration of about 280 tables and 300G data was completed every day.
 widget_id: RECENT-POSTS
 headless: true
 weight: 30
