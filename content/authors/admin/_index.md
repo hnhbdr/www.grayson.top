@@ -1,7 +1,7 @@
 ---
 title: Peng Wei
 role: Junior Back End Engineer
-avatar_filename: avatar.jpeg
+avatar_filename: 研究生-白色背景.jpg
 bio: Although the road is far away, the line will come soon. God rewards
   hard   work, accumulates wealth.
 interests:
