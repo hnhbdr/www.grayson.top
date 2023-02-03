@@ -4,6 +4,13 @@ title: Research on the Route of Longjiang peak carbon dioxide emissions Based on
 subtitle: Research and Planning Project of Philosophy and Social Sciences in
   Heilongjiang Province
 date: 2021-11-02T16:00:13.592Z
+summary: "The innovation of the project: 1. The peak carbon dioxide emissions
+  module analysis based on the new road construction of Chinese modernization in
+  Heilongjiang is carried out; 2. Analyze the mechanism of influencing factors
+  of peak carbon dioxide emissions in Heilongjiang Province; 3. Put forward the
+  countermeasures and suggestions of peak carbon dioxide emissions in various
+  fields in Heilongjiang Province under the background of the new road of
+  Chinese modernization."
 draft: false
 featured: false
 image:
