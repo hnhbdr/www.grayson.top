@@ -20,10 +20,10 @@ content:
   # appointment_url: https://calendly.com
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   address:
-    street: 37 Xueyuan Road
-    city: Beijing
-    region: Haidian
-    postcode: "100191"
+    street: No.145 Nantong Avenue
+    city: Harbin
+    region: Nangang district
+    postcode: "150001"
     country: China
     country_code: CN
   # contact_links:
@@ -38,7 +38,7 @@ content:
   # coordinates:
   #   latitude: "37.4275"
   #   longitude: "-122.1697"
-  email: i@grayson.top
+  email: hnhbdr1996@163.com
 design:
   columns: "2"
 ---
