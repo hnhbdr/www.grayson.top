@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Peng Wei'
+    notice: '© {year} Rong Dou'
     license:
       enable: false
       allow_derivatives: false
