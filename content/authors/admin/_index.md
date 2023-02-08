@@ -7,22 +7,7 @@ interests:
   - Enterprise innovation management
   - Low-carbon Management
   - Intelligent Manufacturing
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: book
-    icon_pack: fas
-    link: https://notebook.grayson.top
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/graysonwp
-  - icon: unsplash
-    icon_pack: fab
-    link: https://unsplash.com/@graysonwp
-  - icon: book-open
-    icon_pack: fas
-    link: https://books.grayson.top
+social: []
 organizations:
   - name: Beihang University
     url: https://buaa.edu.cn
