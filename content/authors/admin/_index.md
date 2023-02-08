@@ -1,6 +1,6 @@
 ---
 title: Rong Dou
-role: Junior Back End Engineer
+role: ""
 avatar_filename: avatar.jpeg
 bio: Break through yourself, from now on.
 interests:
@@ -9,12 +9,12 @@ interests:
   - Intelligent Manufacturing
 social: []
 organizations:
-  - name: Beihang University
-    url: https://buaa.edu.cn
+  - name: Harbin Engineering University
+    url: http://www.hrbeu.edu.cn/
 education:
   courses:
-    - course: M.Eng in Software Engineering
-      institution: Behang University, Beijing, China
+    - course: M.Eng in Business Administration
+      institution: Harbin Engineering University, Heilongjiang, China
       year: 2023
     - course: B.Eng in Information Management and Information System
       institution: Liaoning Technical University, Liaoning, China
