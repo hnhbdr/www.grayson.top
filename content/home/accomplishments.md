@@ -21,7 +21,7 @@ item:
   - certificate_url: "http://rpnshj4rghn-bkt.clouddn.com/38.2.jpg"
     date_end: ""
     date_start: 2022-05-16
-    description: "![](https://notebook.grayson.top/media/202302/ %E6%AD%A3%E5%A4%A7%E6%9D%AF%E5%9B%BE%E6%A0%87_1675859952.png)"
+    description: "![](https://notebook.grayson.top/media/202302/%E6%AD%A3%E5%A4%A7%E6%9D%AF%E5%9B%BE%E6%A0%87_1675859952.png)"
     organization: Commerce Statistical Society of China
     organization_url: http://www.china-cssc.org/list-55-1.html
     title: The 12th Market Survey and Analysis Competition - National Second
