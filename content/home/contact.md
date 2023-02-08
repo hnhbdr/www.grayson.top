@@ -20,9 +20,9 @@ content:
   # appointment_url: https://calendly.com
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   address:
-    street: No.145 Nantong Avenue
+    street: 145 Nantong Street
     city: Harbin
-    region: Nangang district
+    region: Nangang District
     postcode: "150001"
     country: China
     country_code: CN
