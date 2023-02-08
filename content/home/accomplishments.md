@@ -2,7 +2,7 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
- - certificate_url: http://rpnshj4rg.hn-bkt.clouddn.com/36.2_.jpg
+ - certificate_url: "http://rpnshj4rg.hn-bkt.clouddn.com/36.2_.jpg"
     date_end: ""
     date_start: 2022-08-31
     description: "![](http://rpnshj4rg.hn-bkt.clouddn.com/%E6%8C%91%E6%88%98%E6%9D%AF%E5%9B%BE%E6%A0%87.png)"
